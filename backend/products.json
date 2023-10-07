@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Laptop",
+    "image": "https://images.pexels.com/photos/4065876/pexels-photo-4065876.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "avgRating": 3.5,
+    "price": 800
+  },
+  {
+    "id": "2",
+    "name": "Phone",
+    "image": "https://images.pexels.com/photos/1542252/pexels-photo-1542252.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "avgRating": 4.5,
+    "price": 600
+  },
+  {
+    "id": "3",
+    "name": "Smart Watch",
+    "image": "https://images.pexels.com/photos/1334602/pexels-photo-1334602.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "avgRating": 4.1,
+    "price": 300
+  },
+  {
+    "id": "4",
+    "name": "Computer",
+    "image": "https://images.pexels.com/photos/930530/pexels-photo-930530.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "avgRating": 3.8,
+    "price": 1100
+  },
+  {
+    "id": "5",
+    "name": "Head Phones",
+    "image": "https://images.pexels.com/photos/577769/pexels-photo-577769.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "avgRating": 5,
+    "price": 444
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "id": "1",
+    "name": "product1",
+    "image": "https://images.pexels.com/photos/4065876/pexels-photo-4065876.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "avgRating": 3.3,
+    "price": 222
+  }
+]
